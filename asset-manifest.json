@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.42b46f2a.chunk.css",
+    "main.css": "/static/css/main.dc9539c2.chunk.css",
     "main.js": "/static/js/main.f4fd552a.chunk.js",
     "main.js.map": "/static/js/main.f4fd552a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d7616020.js",
@@ -10,7 +10,7 @@
     "static/js/2.39b72411.chunk.js.map": "/static/js/2.39b72411.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.1a02f21c.chunk.css.map": "/static/css/2.1a02f21c.chunk.css.map",
-    "static/css/main.42b46f2a.chunk.css.map": "/static/css/main.42b46f2a.chunk.css.map",
+    "static/css/main.dc9539c2.chunk.css.map": "/static/css/main.dc9539c2.chunk.css.map",
     "static/js/2.39b72411.chunk.js.LICENSE.txt": "/static/js/2.39b72411.chunk.js.LICENSE.txt",
     "static/media/Collage.cfdbb434.png": "/static/media/Collage.cfdbb434.png",
     "static/media/Duff_Headshot_2.dbc528a8.png": "/static/media/Duff_Headshot_2.dbc528a8.png",
@@ -24,7 +24,7 @@
     "static/js/runtime-main.d7616020.js",
     "static/css/2.1a02f21c.chunk.css",
     "static/js/2.39b72411.chunk.js",
-    "static/css/main.42b46f2a.chunk.css",
+    "static/css/main.dc9539c2.chunk.css",
     "static/js/main.f4fd552a.chunk.js"
   ]
 }
